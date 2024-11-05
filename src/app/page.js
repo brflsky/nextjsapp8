@@ -14,6 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
+          <li>No to jedziem</li>
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
